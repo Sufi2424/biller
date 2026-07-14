@@ -1,5 +1,17 @@
-• Product: BILLER – Windows billing software
-• Plans: 1 / 3 / 6 months / 1 year subscription
-• Payment: Razorpay UPI QR in desktop recharge app
-• Contact: phone / email / WhatsApp
-• Note: digital software license, not physical goods
+# BILLER
+
+Windows desktop billing software for shops and businesses.
+
+## About
+BILLER helps you create bills, manage customers, and run billing offline on a Windows PC.
+
+## Subscription plans
+- 1 Month
+- 3 Months
+- 6 Months
+- 1 Year
+
+## Payments
+Customers pay for software subscription / license activation using Razorpay UPI QR inside our Windows recharge application on their PC.
+
+This is a digital software subscription. No physical product is shipped.
